@@ -3,7 +3,7 @@
 
 ## 📌 Project Title & Description
 
-**SmartGuns Shop** คือแพลตฟอร์ม E-Commerce ที่ผสานระบบร้านค้าออนไลน์เข้ากับระบบสุ่มสินค้า (Blind Box / Gacha System) พร้อมระบบจัดการหลังบ้าน (Admin Dashboard) แบบครบวงจร
+**ArtToy3D Shop** คือแพลตฟอร์ม E-Commerce ที่ผสานระบบร้านค้าออนไลน์เข้ากับระบบสุ่มสินค้า (Blind Box / Gacha System) พร้อมระบบจัดการหลังบ้าน (Admin Dashboard) แบบครบวงจร
 
 โปรเจกต์นี้พัฒนาด้วยสถาปัตยกรรม Full-Stack แบ่งเป็น Frontend และ Backend โดยรองรับฟีเจอร์หลักดังนี้:
 
@@ -300,7 +300,7 @@ if (currentTime >= startTime && currentTime <= endTime) {
 
 # 👨‍💻 Credit and Acknowledgements
 
-พัฒนาโดยทีม SmartGuns Development
+พัฒนาโดยทีม ArtToy3D Development
 
 เทคโนโลยีที่ใช้:
 
@@ -337,7 +337,7 @@ This project is licensed under the MIT License.
 
 ---
 
-> SmartGuns Shop – Where Shopping Meets Gamification 🎁
+> ArtToy3D Shop – Where Shopping Meets Gamification 🎁
 
 ```
 ```
