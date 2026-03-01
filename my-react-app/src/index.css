@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* โค้ด CSS อื่นๆ ที่เราเขียนไว้ก่อนหน้านี้ (เช่น font, body) สามารถวางต่อท้ายได้เลย */
+:root {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #F5F5F7;
+}
+
+@layer components {
+  .btn-popmart {
+    @apply bg-[#FFD700] text-black font-black py-3 px-8 rounded-full 
+           hover:bg-black hover:text-white transition-all duration-300;
+  }
+}
